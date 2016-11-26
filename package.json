@@ -1,0 +1,13 @@
+{
+  "name": "server-socket",
+  "version": "0.0.0",
+  "description": "ServerSocket",
+  "main": "app.js",
+  "author": {
+    "name": "Luiz",
+    "email": ""
+  },
+  "dependencies": {
+    "mongoose": "^4.7.0"
+  }
+}
